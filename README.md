@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+BSc Hons Computing Science at the University of Alberta
+
+
+
 <!--
 **KevinH15291/KevinH15291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
